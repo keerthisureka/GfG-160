@@ -9,5 +9,6 @@
 | 3 | [Reverse an Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/003_ReverseAnArray.java) |
 | 4 | [Rotate Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/004_RotateArray.java) |
 | 5 | [Next Permutation](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/005_NextPermutation.java) |
+| 6 | [Majority Element II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/006_MajorityElementII.java) |
 
 </div>
