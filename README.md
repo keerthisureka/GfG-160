@@ -11,5 +11,6 @@
 | 5 | [Next Permutation](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/005_NextPermutation.java) |
 | 6 | [Majority Element II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/006_MajorityElementII.java) |
 | 7 | [Stock Buy and Sell – Multiple Transaction Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/007_StockBuyAndSell-MultipleTransactionAllowed.java) |
+| 8 | [Stock Buy and Sell – Max One Transaction Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/008_StockBuyAndSell-MaxOneTransactionAllowed.java) |
 
 </div>
