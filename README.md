@@ -1,6 +1,8 @@
-# GfG 160 - 160 Days of Problem Solving - [Syllabus](https://github.com/keerthisureka/GfG-160/blob/main/GFG%20160%20Series%20-%20Syllabus.pdf)
-
 <div align="center">
+
+# GfG 160 - 160 Days of Problem Solving
+## [Link to the series](https://www.geeksforgeeks.org/courses/gfg-160-series)
+## [Syllabus](https://github.com/keerthisureka/GfG-160/blob/main/GFG%20160%20Series%20-%20Syllabus.pdf)
 
 ### Arrays
 
