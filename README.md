@@ -13,5 +13,6 @@
 | 7 | [Stock Buy and Sell – Multiple Transaction Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/007_StockBuyAndSell-MultipleTransactionAllowed.java) |
 | 8 | [Stock Buy and Sell – Max One Transaction Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/008_StockBuyAndSell-MaxOneTransactionAllowed.java) |
 | 9 | [Minimize the Heights II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/009_MinimizeTheHeightsII.java) |
+| 10 | [Kadane's Algorithm](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/kadanes-algorithm-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/010_KadanesAlgorithm.java) |
 
 </div>
