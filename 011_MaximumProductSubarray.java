@@ -3,7 +3,6 @@
 class Solution {
     // Function to find maximum product subarray
     int maxProduct(int[] arr) {
-        // code here
         int n = arr.length;
         int maxProd = Integer.MIN_VALUE;
         

@@ -19,5 +19,6 @@
 | 9 | [Minimize the Heights II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/009_MinimizeTheHeightsII.java) |
 | 10 | [Kadane's Algorithm](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/kadanes-algorithm-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/010_KadanesAlgorithm.java) |
 | 11 | [Maximum Product Subarray](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/011_MaximumProductSubarray.java) |
+| 12 | [Max Circular Subarray Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/012_MaxCircularSubarraySum.java) |
 
 </div>
