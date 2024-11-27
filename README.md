@@ -21,5 +21,9 @@
 | 11 | [Maximum Product Subarray](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/011_MaximumProductSubarray.java) |
 | 12 | [Max Circular Subarray Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/012_MaxCircularSubarraySum.java) |
 | 13 | [Smallest Positive Missing Number](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/013_SmallestPositiveMissingNumber.java) |
+| Bonus 1 | [Split Array In Three Equal Sum Subarrays](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/split-array-in-three-equal-sum-subarrays) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B1_SplitArrayInThreeEqualSumSubarrays.java) |
+| Bonus 2 | [Repetitive Addition Of Digits](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/repetitive-addition-of-digits2221) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B2_RepetitiveAdditionOfDigits.java) |
+| Bonus 3 | [Maximize Number of 1's](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/maximize-number-of-1s0905) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B3_MaximizeNumberOf1s.java) |
+| Bonus 4 | [Last Moment Before All Ants Fall Out of a Plank](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/last-moment-before-all-ants-fall-out-of-a-plank) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B4_LastMomentBeforeAllAntsFallOutOfAPlank.java) |
 
 </div>
