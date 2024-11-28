@@ -26,4 +26,12 @@
 | Bonus 3 | [Maximize Number of 1's](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/maximize-number-of-1s0905) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B3_MaximizeNumberOf1s.java) |
 | Bonus 4 | [Last Moment Before All Ants Fall Out of a Plank](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/last-moment-before-all-ants-fall-out-of-a-plank) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B4_LastMomentBeforeAllAntsFallOutOfAPlank.java) |
 
+
+### String
+
+|  Day No.  |  Problem Link  |  Solution Link  |
+|  :-----:  |    :-------:   |   :---------:   |
+| 14 | [Implement Atoi](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/014_ImplementAtoi.java) |
+
+
 </div>
