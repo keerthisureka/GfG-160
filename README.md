@@ -34,5 +34,6 @@
 | 14 | [Implement Atoi](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/014_ImplementAtoi.java) |
 | 15 | [Add Binary Strings](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/015_AddBinaryStrings.java) |
 | 16 | [Anagram](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/anagram-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/016_Anagram.java) |
+| 17 | [Non Repeating Character](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/non-repeating-character-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/017_NonRepeatingCharacter.java) |
 
 </div>
