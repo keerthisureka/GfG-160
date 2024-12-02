@@ -35,5 +35,6 @@
 | 15 | [Add Binary Strings](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/015_AddBinaryStrings.java) |
 | 16 | [Anagram](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/anagram-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/016_Anagram.java) |
 | 17 | [Non Repeating Character](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/non-repeating-character-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/017_NonRepeatingCharacter.java) |
+| 18 | [Search Pattern (KMP-Algorithm)](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/search-pattern0205) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/018_SearchPattern(KMP-Algorithm).java) |
 
 </div>
