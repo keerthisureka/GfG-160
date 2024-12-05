@@ -21,10 +21,10 @@
 | 11 | [Maximum Product Subarray](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/011_MaximumProductSubarray.java) |
 | 12 | [Max Circular Subarray Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/012_MaxCircularSubarraySum.java) |
 | 13 | [Smallest Positive Missing Number](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/013_SmallestPositiveMissingNumber.java) |
-| Bonus 1 | [Split Array In Three Equal Sum Subarrays](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/split-array-in-three-equal-sum-subarrays) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B1_SplitArrayInThreeEqualSumSubarrays.java) |
-| Bonus 2 | [Repetitive Addition Of Digits](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/repetitive-addition-of-digits2221) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B2_RepetitiveAdditionOfDigits.java) |
-| Bonus 3 | [Maximize Number of 1's](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/maximize-number-of-1s0905) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B3_MaximizeNumberOf1s.java) |
-| Bonus 4 | [Last Moment Before All Ants Fall Out of a Plank](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/last-moment-before-all-ants-fall-out-of-a-plank) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B4_LastMomentBeforeAllAntsFallOutOfAPlank.java) |
+| Bonus 1 | [Split Array In Three Equal Sum Subarrays](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/split-array-in-three-equal-sum-subarrays) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B01_SplitArrayInThreeEqualSumSubarrays.java) |
+| Bonus 2 | [Repetitive Addition Of Digits](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/repetitive-addition-of-digits2221) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B02_RepetitiveAdditionOfDigits.java) |
+| Bonus 3 | [Maximize Number of 1's](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/maximize-number-of-1s0905) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B03_MaximizeNumberOf1s.java) |
+| Bonus 4 | [Last Moment Before All Ants Fall Out of a Plank](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/array-bonus-problems/problem/last-moment-before-all-ants-fall-out-of-a-plank) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B04_LastMomentBeforeAllAntsFallOutOfAPlank.java) |
 
 
 ### String
@@ -38,5 +38,18 @@
 | 18 | [Search Pattern (KMP-Algorithm)](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/search-pattern0205) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/018_SearchPattern(KMP-Algorithm).java) |
 | 19 | [Min Chars to Add for Palindrome](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/minimum-characters-to-be-added-at-front-to-make-string-palindrome) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/019_MinCharsToAddForPalindrome.java) |
 | 20 | [Strings Rotations of Each Other](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/check-if-strings-are-rotations-of-each-other-or-not-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/020_StringsRotationsOfEachOther.java) |
+| Bonus 5 | [Fizz Buzz](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/fizz-buzz) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B05_FizzBuzz.java) |
+| Bonus 6 | [CamelCase Pattern Matching](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/camelcase-pattern-matching2259) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B06_CamelCasePatternMatching.java) |
+| Bonus 7 | [Palindrome Sentence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/string-palindromic-ignoring-spaces4723) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B07_PalindromeSentence.java) |
+| Bonus 8 | [Minimum repeat to make substring](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/minimum-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it--170645) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B08_MinimumRepeatToMakeSubstring.java) |
+| Bonus 9 | [Longest Prefix Suffix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/longest-prefix-suffix2527) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B09_LongestPrefixSuffix.java) |
+| Bonus 10 | [Integer to Words](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-bonus-problems/problem/number-to-words0335) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B10_IntegerToWords.java) |
+
+
+### Sorting
+
+|  Day No.  |  Problem Link  |  Solution Link  |
+|  :-----:  |    :-------:   |   :---------:   |
+| 21 | [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/sort-an-array-of-0s-1s-and-2s4231) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/021_Sort0s1sAnd2s.java) |
 
 </div>
