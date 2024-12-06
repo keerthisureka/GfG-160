@@ -7,7 +7,6 @@ class Solution {
         int n = citations.length;
         Arrays.sort(citations);
         
-        int citationsCnt = 0;
         int idx = 0;
         while(idx < n && citations[n - 1 - idx] > idx) {
             idx++;
