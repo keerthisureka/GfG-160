@@ -52,5 +52,6 @@
 |  :-----:  |    :-------:   |   :---------:   |
 | 21 | [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/sort-an-array-of-0s-1s-and-2s4231) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/021_Sort0s1sAnd2s.java) |
 | 22 | [Find H-Index](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/find-h-index--165609) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/022_FindHIndex.java) |
+| 23 | [Count Inversions](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/inversion-of-array-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/023_CountInversions.java) |
 
 </div>
