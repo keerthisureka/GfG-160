@@ -55,5 +55,6 @@
 | 23 | [Count Inversions](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/inversion-of-array-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/023_CountInversions.java) |
 | 24 | [Overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/overlapping-intervals--170633) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/024_OverlappingIntervals.java) |
 | 25 | [Insert Interval](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/025_InsertInterval.java) |
+| 26 | [Non-overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/non-overlapping-intervals) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/026_Non-overlappingIntervals.java) |
 
 </div>
