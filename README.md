@@ -56,5 +56,6 @@
 | 24 | [Overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/overlapping-intervals--170633) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/024_OverlappingIntervals.java) |
 | 25 | [Insert Interval](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/025_InsertInterval.java) |
 | 26 | [Non-overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/non-overlapping-intervals) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/026_Non-overlappingIntervals.java) |
+| 27 | [Merge Without Extra Space](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/merge-two-sorted-arrays-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/027_MergeWithoutExtraSpace.java) |
 
 </div>
