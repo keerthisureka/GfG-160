@@ -57,5 +57,13 @@
 | 25 | [Insert Interval](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/025_InsertInterval.java) |
 | 26 | [Non-overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/non-overlapping-intervals) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/026_Non-overlappingIntervals.java) |
 | 27 | [Merge Without Extra Space](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/merge-two-sorted-arrays-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/027_MergeWithoutExtraSpace.java) |
+| Bonus 11 | [Minimum Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-bonus-problems/problem/minimum-sum4058) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/B11_MinimumSum.java) |
+
+
+### Searching
+
+|  Day No.  |  Problem Link  |  Solution Link  |
+|  :-----:  |    :-------:   |   :---------:   |
+| 28 | [Number of occurrence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/028_NumberOfOccurrence.java) |
 
 </div>
