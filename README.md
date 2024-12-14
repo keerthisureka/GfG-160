@@ -66,5 +66,6 @@
 |  :-----:  |    :-------:   |   :---------:   |
 | 28 | [Number of occurrence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/028_NumberOfOccurrence.java) |
 | 29 | [Sorted and Rotated Minimum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/minimum-element-in-a-sorted-and-rotated-array3611) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/029_SortedAndRotatedMinimum.java) |
+| 30 | [Search in Rotated Sorted Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/search-in-a-rotated-array4618) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/030_SearchInRotatedSortedArray.java) |
 
 </div>
