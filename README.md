@@ -71,5 +71,6 @@
 | 32 | [K-th element of two Arrays](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/k-th-element-of-two-sorted-array1317) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/032_K-thElementOfTwoArrays.java) |
 | 33 | [Aggressive Cows](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/aggressive-cows) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/033_AggressiveCows.java) |
 | 34 | [Allocate Minimum Pages](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/allocate-minimum-number-of-pages0937) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/034_AllocateMinimumPages.java) |
+| 35 | [Kth Missing Positive Number in a Sorted Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/kth-missing-positive-number-in-a-sorted-array) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/035_KthMissingPositiveNumberInASortedArray.java) |
 
 </div>
