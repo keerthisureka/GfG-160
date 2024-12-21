@@ -72,6 +72,12 @@
 | 33 | [Aggressive Cows](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/aggressive-cows) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/033_AggressiveCows.java) |
 | 34 | [Allocate Minimum Pages](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/allocate-minimum-number-of-pages0937) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/034_AllocateMinimumPages.java) |
 | 35 | [Kth Missing Positive Number in a Sorted Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/kth-missing-positive-number-in-a-sorted-array) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/035_KthMissingPositiveNumberInASortedArray.java) |
+
+
+### Matrix
+
+|  Day No.  |  Problem Link  |  Solution Link  |
+|  :-----:  |    :-------:   |   :---------:   |
 | 36 | [Spirally traversing a matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/spirally-traversing-a-matrix-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/036_SpirallyTraversingAMatrix.java) |
 | 37 | [Rotate by 90 degree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/rotate-by-90-degree-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/037_RotateBy90Degree.java) |
 
