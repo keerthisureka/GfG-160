@@ -81,5 +81,6 @@
 | 36 | [Spirally traversing a matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/spirally-traversing-a-matrix-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/036_SpirallyTraversingAMatrix.java) |
 | 37 | [Rotate by 90 degree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/rotate-by-90-degree-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/037_RotateBy90Degree.java) |
 | 38 | [Search in a Row-Column sorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix17201720) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/038_SearchInARow-ColumnSortedMatrix.java) |
+| 39 | [Search in a row-wise sorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-row-wise-sorted-matrix) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/039_SearchInARow-wiseSortedMatrix.java) |
 
 </div>
