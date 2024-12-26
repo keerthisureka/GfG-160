@@ -84,5 +84,6 @@
 | 39 | [Search in a row-wise sorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-row-wise-sorted-matrix) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/039_SearchInARow-wiseSortedMatrix.java) |
 | 40 | [Search in a sorted Matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/040_SearchInASortedMatrix.java) |
 | 41 | [Set Matrix Zeroes](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/set-matrix-zeroes) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/041_SetMatrixZeroes.java) |
+| 42 | [Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/key-pair5616) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/042_TwoSum-PairWithGivenSum.java) |
 
 </div>
