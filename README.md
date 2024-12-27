@@ -91,5 +91,6 @@
 |  Day No.  |  Problem Link  |  Solution Link  |
 |  :-----:  |    :-------:   |   :---------:   |
 | 42 | [Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/key-pair5616) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/042_TwoSum-PairWithGivenSum.java) |
+| 43 | [Count pairs with given sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-pairs-with-given-sum--150253) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/043_CountPairsWithGivenSum.java) |
 
 </div>
