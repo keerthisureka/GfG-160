@@ -95,5 +95,6 @@
 | 44 | [Find All Triplets with Zero Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/find-all-triplets-with-zero-sum) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/044_FindAllTripletsWithZeroSum.java) |
 | 45 | [Intersection of Two arrays with Duplicate Elements](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/intersection-of-two-arrays-with-duplicate-elements) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/045_IntersectionOfTwoArraysWithDuplicateElements.java) |
 | 46 | [Union of Arrays with Duplicates](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/union-of-two-arrays3538) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/046_UnionOfArraysWithDuplicates.java) |
+| 47 | [Longest Consecutive Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/longest-consecutive-subsequence2449) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/047_LongestConsecutiveSubsequence.java) |
 
 </div>
