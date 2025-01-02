@@ -97,5 +97,6 @@
 | 46 | [Union of Arrays with Duplicates](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/union-of-two-arrays3538) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/046_UnionOfArraysWithDuplicates.java) |
 | 47 | [Longest Consecutive Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/longest-consecutive-subsequence2449) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/047_LongestConsecutiveSubsequence.java) |
 | 48 | [Print Anagrams Together](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/print-anagrams-together) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/048_PrintAnagramsTogether.java) |
+| 49 | [Subarrays with sum K](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/subarrays-with-sum-k) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/049_SubarraysWithSumK.java) |
 
 </div>
