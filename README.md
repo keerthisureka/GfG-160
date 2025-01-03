@@ -100,4 +100,11 @@
 | 49 | [Subarrays with sum K](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/subarrays-with-sum-k) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/049_SubarraysWithSumK.java) |
 | 50 | [Count Subarrays with given XOR](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-subarray-with-given-xor) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/050_CountSubarraysWithGivenXOR.java) |
 
+
+### Two Pointer Technique
+
+|  Day No.  |  Problem Link  |  Solution Link  |
+|  :-----:  |    :-------:   |   :---------:   |
+| 51 | [Count all triplets with given sum in sorted array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-all-triplets-with-given-sum-in-sorted-array) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/051_CountAllTripletsWithGivenSumInSortedArray.java) |
+
 </div>
