@@ -106,5 +106,6 @@
 |  Day No.  |  Problem Link  |  Solution Link  |
 |  :-----:  |    :-------:   |   :---------:   |
 | 51 | [Count all triplets with given sum in sorted array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-all-triplets-with-given-sum-in-sorted-array) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/051_CountAllTripletsWithGivenSumInSortedArray.java) |
+| 52 | [Count Pairs whose sum is less than target](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/052_CountPairsWhoseSumIsLessThanTarget.java) |
 
 </div>
