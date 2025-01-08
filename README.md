@@ -109,5 +109,6 @@
 | 52 | [Count Pairs whose sum is less than target](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/052_CountPairsWhoseSumIsLessThanTarget.java) |
 | 53 | [Sum Pair closest to target](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/pair-in-array-whose-sum-is-closest-to-x1124) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/053_SumPairClosestToTarget.java) |
 | 54 | [Pair with given sum in a sorted array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/pair-with-given-sum-in-a-sorted-array4940) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/054_PairWithGivenSumInASortedArray.java) |
+| 55 | [Count the number of possible triangles](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-possible-triangles-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/055_CountTheNumberOfPossibleTriangles.java) |
 
 </div>
