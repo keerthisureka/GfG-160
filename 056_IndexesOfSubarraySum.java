@@ -3,7 +3,6 @@
 // SC: O(1)
 class Solution {
     static ArrayList<Integer> subarraySum(int[] arr, int target) {
-        // code here
         int n = arr.length;
         ArrayList<Integer> res = new ArrayList<>();
         
@@ -17,7 +16,7 @@ class Solution {
                 sum -= arr[i];
                 i++;
             }
-            // If sum is equal to the target, add the indices in the result and return
+            // If sum is equal to the target, add 1-based indices to the result and return
             if(sum == target) {
                 res.add(i + 1);
                 res.add(j + 1);
