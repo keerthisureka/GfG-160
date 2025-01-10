@@ -112,5 +112,6 @@
 | 55 | [Count the number of possible triangles](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-possible-triangles-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/055_CountTheNumberOfPossibleTriangles.java) |
 | 56 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/subarray-with-given-sum-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/056_IndexesOfSubarraySum.java) |
 | 57 | [Count distinct elements in every window](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-distinct-elements-in-every-window) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/057_CountDistinctElementsInEveryWindow.java) |
+| 58 | [Longest substring with distinct characters](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/longest-distinct-characters-in-string5848) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/058_LongestSubstringWithDistinctCharacters.java) |
 
 </div>
