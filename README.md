@@ -114,5 +114,6 @@
 | 57 | [Count distinct elements in every window](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-distinct-elements-in-every-window) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/057_CountDistinctElementsInEveryWindow.java) |
 | 58 | [Longest substring with distinct characters](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/longest-distinct-characters-in-string5848) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/058_LongestSubstringWithDistinctCharacters.java) |
 | 59 | [Trapping Rain Water](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/trapping-rain-water-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/059_TrappingRainWater.java) |
+| 60 | [Container With Most Water](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/container-with-most-water0535) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/060_ContainerWithMostWater.java) |
 
 </div>
