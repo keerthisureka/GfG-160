@@ -116,4 +116,11 @@
 | 59 | [Trapping Rain Water](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/trapping-rain-water-1587115621) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/059_TrappingRainWater.java) |
 | 60 | [Container With Most Water](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/container-with-most-water0535) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/060_ContainerWithMostWater.java) |
 
+
+### Prefix Sum
+
+|  Day No.  |  Problem Link  |  Solution Link  |
+|  :-----:  |    :-------:   |   :---------:   |
+| 61 | [Equilibrium Point](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/equilibrium-point-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/061_EquilibriumPoint.java) |
+
 </div>
