@@ -123,5 +123,6 @@
 |  :-----:  |    :-------:   |   :---------:   |
 | 61 | [Equilibrium Point](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/equilibrium-point-1587115620) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/061_EquilibriumPoint.java) |
 | 62 | [Longest Subarray with Sum K](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/longest-sub-array-with-sum-k0809) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/062_LongestSubarrayWithSumK.java) |
+| 63 | [Largest subarray of 0's and 1's](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/largest-subarray-of-0s-and-1s) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/063_LargestSubarrayOf0sAnd1s.java) |
 
 </div>
