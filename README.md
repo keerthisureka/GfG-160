@@ -126,4 +126,11 @@
 | 63 | [Largest subarray of 0's and 1's](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/largest-subarray-of-0s-and-1s) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/063_LargestSubarrayOf0sAnd1s.java) |
 | 64 | [Product array puzzle](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/product-array-puzzle4525) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/064_ProductArrayPuzzle.java) |
 
+
+### Linked List
+
+|  Day No.  |  Problem Link  |  Solution Link  |
+|  :-----:  |    :-------:   |   :---------:   |
+| 65 | [Reverse a linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/065_ReverseALinkedList.java) |
+
 </div>
