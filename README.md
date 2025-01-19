@@ -132,5 +132,6 @@
 |  Day No.  |  Problem Link  |  Solution Link  |
 |  :-----:  |    :-------:   |   :---------:   |
 | 65 | [Reverse a linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/065_ReverseALinkedList.java) |
+| 66 | [Rotate a Linked List](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/rotate-a-linked-list) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/066_RotateALinkedList.java) |
 
 </div>
