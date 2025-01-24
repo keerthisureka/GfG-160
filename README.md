@@ -137,5 +137,6 @@
 | 68 | [Linked List Group Reverse](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list-in-groups-of-given-size) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/068_LinkedListGroupReverse.java) |
 | 69 | [Add Number Linked Lists](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/add-two-numbers-represented-by-linked-lists) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/069_AddNumberLinkedLists.java) |
 | 70 | [Clone List with Next and Random](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/clone-a-linked-list-with-next-and-random-pointer) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/070_CloneListWithNextAndRandom.java) |
+| 71 | [Detect Loop in linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/detect-loop-in-linked-list) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/071_DetectLoopInLinkedList.java) |
 
 </div>
