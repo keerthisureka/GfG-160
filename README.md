@@ -140,5 +140,6 @@
 | 71 | [Detect Loop in linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/detect-loop-in-linked-list) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/071_DetectLoopInLinkedList.java) |
 | 72 | [Find the first node of loop in linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/find-the-first-node-of-loop-in-linked-list--170645) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/072_FindTheFirstNodeOfLoopInLinkedList.java) |
 | 73 | [Remove loop in Linked List](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/remove-loop-in-linked-list) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/073_RemoveLoopInLinkedList.java) |
+| 74 | [LRU Cache](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/lru-cache) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/074_LRUCache.java) |
 
 </div>
