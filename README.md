@@ -142,4 +142,11 @@
 | 73 | [Remove loop in Linked List](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/remove-loop-in-linked-list) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/073_RemoveLoopInLinkedList.java) |
 | 74 | [LRU Cache](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/lru-cache) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/074_LRUCache.java) |
 
+
+### Backtracking and Recursion
+
+|  Day No.  |  Problem Link  |  Solution Link  |
+|  :-----:  |    :-------:   |   :---------:   |
+| 75 | [Permutations of a String](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/permutations-of-a-given-string2041) | [Soln](https://github.com/keerthisureka/GfG-160/blob/main/075_PermutationsOfAString.java) |
+
 </div>
