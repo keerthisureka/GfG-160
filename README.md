@@ -1,15 +1,8 @@
 <div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="text-align: left;">
-    <h1>🎯 GfG 160 - 160 Days of Problem Solving</h1>
-    👉 <a href="https://www.geeksforgeeks.org/courses/gfg-160-series"><b>Explore the Series</b></a> | 
-    📜 <a href="https://github.com/keerthisureka/GfG-160/blob/main/GFG%20160%20Series%20-%20Syllabus.pdf"><b>View the Syllabus</b></a>
-  </div>
-  <div>
-    <img src="https://github.com/keerthisureka/GfG-160/blob/main/screenshots/logo.png" width="200px" style="max-width: 40%; height: auto;" alt="GfG Logo">
-  </div>
-</div>
+# 🎯 GfG 160 - 160 Days of Problem Solving
+
+👉 [**Explore the Series**](https://www.geeksforgeeks.org/courses/gfg-160-series) | 📜 [**View the Syllabus**](https://github.com/keerthisureka/GfG-160/blob/main/GFG%20160%20Series%20-%20Syllabus.pdf)
 
 ---
 
