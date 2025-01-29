@@ -1,8 +1,15 @@
 <div>
 
-# GfG 160 - 160 Days of Problem Solving 
-[![Series Link](https://img.shields.io/badge/Explore-GfG%20160-blue?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/courses/gfg-160-series)
-[![Syllabus](https://img.shields.io/badge/View-Syllabus-blue?style=for-the-badge)](https://github.com/keerthisureka/GfG-160/blob/main/GFG%20160%20Series%20-%20Syllabus.pdf)  
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="text-align: left;">
+    <h1>🎯 GfG 160 - 160 Days of Problem Solving</h1>
+    👉 <a href="https://www.geeksforgeeks.org/courses/gfg-160-series"><b>Explore the Series</b></a> | 
+    📜 <a href="https://github.com/keerthisureka/GfG-160/blob/main/GFG%20160%20Series%20-%20Syllabus.pdf"><b>View the Syllabus</b></a>
+  </div>
+  <div>
+    <img src="https://github.com/keerthisureka/GfG-160/blob/main/screenshots/logo.png" width="200px" style="max-width: 40%; height: auto;" alt="GfG Logo">
+  </div>
+</div>
 
 ---
 
@@ -167,6 +174,7 @@
 <summary>📂 <b>Recursion and Backtracking</b></summary>
 
 - **Day 75**: [Permutations of a String](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/permutations-of-a-given-string2041) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/10_Recursion%20and%20Backtracking/075_PermutationsOfAString.java)
+- **Day 76**: [Implement Pow](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/powx-n) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/10_Recursion%20and%20Backtracking/076_ImplementPow.java)
 
 </details>
 
@@ -182,9 +190,14 @@
 
 ---
 
+</div>
+
+
 <div align="center">
 
 💡 *"The best way to improve your coding skills is by solving problems. One day at a time, one problem at a time!"*  
+
+🙌 **Found this helpful? Give it a ⭐!**  
 
 🌟 **Happy Coding!** 🌟  
 
