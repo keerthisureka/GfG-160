@@ -9,8 +9,6 @@
 📚 **Embark on an exciting 160-day journey of problem-solving through arrays, strings, and more!**  
 🎯 Each day brings a new challenge, with bonus problems sprinkled in to push your boundaries!  
 
-</div>
-
 ---
 
 ## 🗓️ **Day-by-Day Progress**
