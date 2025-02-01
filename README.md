@@ -168,6 +168,7 @@
 - **Day 76**: [Implement Pow](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/powx-n) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/10_Recursion%20and%20Backtracking/076_ImplementPow.java)
 - **Day 77**: [N-Queen Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/n-queen-problem0315) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/10_Recursion%20and%20Backtracking/077_N-QueenProblem.java)
 - **Day 78**: [Solve the Sudoku](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/solve-the-sudoku-1587115621) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/10_Recursion%20and%20Backtracking/078_SolveTheSudoku.java)
+- **Day 79**: [Word Search](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/word-search) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/10_Recursion%20and%20Backtracking/079_WordSearch.java)
 
 </details>
 
