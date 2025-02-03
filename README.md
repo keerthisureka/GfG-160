@@ -177,6 +177,7 @@
 <summary>📂 <b>Tree</b></summary>
 
 - **Day 80**: [Level order traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/level-order-traversal) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/080_LevelOrderTraversal.java)
+- **Day 81**: [Height of Binary Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/height-of-binary-tree) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/081_HeightOfBinaryTree.java)
 
 </details>
 
