@@ -179,6 +179,7 @@
 - **Day 80**: [Level order traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/level-order-traversal) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/080_LevelOrderTraversal.java)
 - **Day 81**: [Height of Binary Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/height-of-binary-tree) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/081_HeightOfBinaryTree.java)
 - **Day 82**: [Diameter of a Binary Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/diameter-of-binary-tree) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/082_DiameterOfABinaryTree.java)
+- **Day 83**: [Mirror Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/mirror-tree) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/083_MirrorTree.java)
 
 </details>
 
