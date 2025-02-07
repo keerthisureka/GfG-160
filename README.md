@@ -181,6 +181,7 @@
 - **Day 82**: [Diameter of a Binary Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/diameter-of-binary-tree) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/082_DiameterOfABinaryTree.java)
 - **Day 83**: [Mirror Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/mirror-tree) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/083_MirrorTree.java)
 - **Day 84**: [Construct Tree from Inorder & Preorder](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/construct-tree-1) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/084_ConstructTreeFromInorderAndPreorder.java)
+- **Day 85**: [Inorder Traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/inorder-traversal) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/085_InorderTraversal.java)
 
 </details>
 
