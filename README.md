@@ -184,6 +184,7 @@
 - **Day 85**: [Inorder Traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/inorder-traversal) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/085_InorderTraversal.java)
 - **Day 86**: [Tree Boundary Traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/boundary-traversal-of-binary-tree) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/086_TreeBoundaryTraversal.java)
 - **Day 87**: [Maximum path sum from any node](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/maximum-path-sum-from-any-node) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/087_MaximumPathSumFromAnyNode.java)
+- **Day 88**: [K Sum Paths](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/k-sum-paths) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/088_KSumPaths.java)
 
 </details>
 
