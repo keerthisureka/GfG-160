@@ -61,3 +61,36 @@ class Solution {
         return check(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
     }
 }
+
+
+// Approach-4: (Inorder Morris Traversal -> Left-Root-Right)
+// TC: O(n) -> visiting all nodes exactly once
+// SC: O(1)
+class Solution {
+    boolean isBST(Node root) {
+        Node curr = root;
+        int prevValue = Integer.MIN_VALUE; // For ensuring it is a BST
+        
+        while(curr != null) {
+            if(curr.left == null) {
+                // Since inorder traversal would be in ascending order for BST
+                if(curr.data <= prevValue)
+                    return false;
+                prevValue = curr.data;
+                curr = curr.right;
+            }
+            else {
+                Node pre = curr.left;
+                while(pre.right != null)
+                    pre = pre.right;
+                pre.right = curr;
+                
+                // Removing the left pointer from curr, so that its not visited again
+                Node temp = curr;
+                curr = curr.left;
+                temp.left = null;
+            }
+        }
+        return true;
+    }
+}
