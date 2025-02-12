@@ -68,6 +68,9 @@
 - **Day 26**: [Non-overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/non-overlapping-intervals) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/03_Sorting/026_Non-overlappingIntervals.java)  
 - **Day 27**: [Merge Without Extra Space](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/merge-two-sorted-arrays-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/03_Sorting/027_MergeWithoutExtraSpace.java)  
 - **Bonus 11**: [Minimum Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-bonus-problems/problem/minimum-sum4058) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/03_Sorting/B11_MinimumSum.java)  
+- **Bonus 12**: [Meeting Rooms](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-bonus-problems/problem/attend-all-meetings) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/03_Sorting/B12_MeetingRooms.java)  
+- **Bonus 13**: [Form the Largest Number](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-bonus-problems/problem/largest-number-formed-from-an-array1117) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/03_Sorting/B13_FormTheLargestNumber.java)  
+- **Bonus 14**: [Make array elements unique](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-bonus-problems/problem/make-array-elements-unique--170645) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/03_Sorting/B14_MakeArrayElementsUnique.java)  
 
 </details>
 
