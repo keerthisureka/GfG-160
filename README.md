@@ -190,6 +190,7 @@
 - **Day 88**: [K Sum Paths](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/k-sum-paths) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/088_KSumPaths.java)
 - **Day 89**: [Check for BST](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/check-for-bst) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/089_CheckForBST.java)
 - **Day 90**: [k-th Smallest in BST](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/find-k-th-smallest-element-in-bst) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/090_k-thSmallestInBST.java)
+- **Day 91**: [Pair Sum in BST](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/find-a-pair-with-given-target-in-bst) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/091_PairSumInBST.java)
 
 </details>
 
