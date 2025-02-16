@@ -193,6 +193,7 @@
 - **Day 91**: [Pair Sum in BST](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/find-a-pair-with-given-target-in-bst) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/091_PairSumInBST.java)
 - **Day 92**: [Fixing Two nodes of a BST](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/fixed-two-nodes-of-a-bst) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/092_FixingTwoNodesOfABST.java)
 - **Day 93**: [Lowest Common Ancestor in a BST](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/lowest-common-ancestor-in-a-bst) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/093_LowestCommonAncestorInABST.java)
+- **Day 94**: [Serialize and deserialize a binary tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/serialize-and-deserialize-a-binary-tree) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/11_Tree/094_SerializeAndDeserializeABinaryTree.java)
 
 </details>
 
