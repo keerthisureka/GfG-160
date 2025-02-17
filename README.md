@@ -198,6 +198,13 @@
 </details>
 
 
+<details>
+<summary>📂 <b>Heap</b></summary>
+
+- **Day 95**: [k largest elements](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/k-largest-elements4206) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/12_Heap/095_kLargestElements.java)
+
+</details>
+
 ---
 
 ## 🚀 **How to Get Started**  
