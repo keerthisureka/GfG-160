@@ -204,6 +204,7 @@
 - **Day 95**: [k largest elements](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/k-largest-elements4206) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/12_Heap/095_kLargestElements.java)
 - **Day 96**: [K Closest Points to Origin](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/k-closest-points-to-origin--172242) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/12_Heap/096_KClosestPointsToOrigin.java)
 - **Day 97**: [Merge K sorted linked lists](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/merge-k-sorted-linked-lists) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/12_Heap/097_MergeKSortedLinkedLists.java)
+- **Day 98**: [Find median in a stream](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/find-median-in-a-stream-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/12_Heap/098_FindMedianInAStream.java)
 
 </details>
 
