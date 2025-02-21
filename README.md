@@ -208,6 +208,14 @@
 
 </details>
 
+
+<details>
+<summary>📂 <b>Stack</b></summary>
+
+- **Day 99**: [Parenthesis Checker](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/parenthesis-checker2744) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/099_ParenthesisChecker.java)
+
+</details>
+
 ---
 
 ## 🚀 **How to Get Started**  
