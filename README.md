@@ -216,6 +216,7 @@
 - **Day 100**: [Longest valid Parentheses](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/longest-valid-parentheses5657) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/100_LongestValidParentheses.java)
 - **Day 101**: [Next Greater Element](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/next-larger-element-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/101_NextGreaterElement.java)
 - **Day 102**: [Stock span problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/stock-span-problem-1587115621) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/102_StockSpanProblem.java)
+- **Day 103**: [Histogram Max Rectangular Area](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/maximum-rectangular-area-in-a-histogram-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/103_HistogramMaxRectangularArea.java)
 
 </details>
 
