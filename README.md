@@ -219,6 +219,7 @@
 - **Day 103**: [Histogram Max Rectangular Area](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/maximum-rectangular-area-in-a-histogram-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/103_HistogramMaxRectangularArea.java)
 - **Day 104**: [Maximum of minimum for every window size](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/maximum-of-minimum-for-every-window-size3453) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/104_MaximumOfMinimumForEveryWindowSize.java)
 - **Day 105**: [Get Min from Stack](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/get-minimum-element-from-stack) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/105_GetMinFromStack.java)
+- **Day 106**: [Evaluation of Postfix Expression](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/evaluation-of-postfix-expression1735) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/13_Stack/106_EvaluationOfPostfixExpression.java)
 
 </details>
 
