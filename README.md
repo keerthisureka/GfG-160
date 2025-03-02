@@ -224,6 +224,14 @@
 
 </details>
 
+
+<details>
+<summary>📂 <b>Queue and Deque</b></summary>
+
+- **Day 108**: [K Sized Subarray Maximum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/queue-and-deque-gfg-160/problem/maximum-of-all-subarrays-of-size-k3101) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/14_Queue%20and%20Deque/108_KSizedSubarrayMaximum.java)
+
+</details>
+
 ---
 
 ## 🚀 **How to Get Started**  
