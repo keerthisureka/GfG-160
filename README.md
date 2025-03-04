@@ -233,6 +233,14 @@
 
 </details>
 
+
+<details>
+<summary>📂 <b>Dynamic Programming</b></summary>
+
+- **Day 110**: [Longest Increasing Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-increasing-subsequence-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/14_Queue%20and%20Deque/110_LongestIncreasingSubsequence.java)
+
+</details>
+
 ---
 
 ## 🚀 **How to Get Started**  
