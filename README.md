@@ -238,6 +238,7 @@
 <summary>📂 <b>Dynamic Programming</b></summary>
 
 - **Day 110**: [Longest Increasing Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-increasing-subsequence-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/110_LongestIncreasingSubsequence.java)
+- **Day 111**: [Longest String Chain](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-string-chain) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/111_LongestStringChain.java)
 
 </details>
 
