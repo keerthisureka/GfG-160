@@ -242,6 +242,7 @@
 - **Day 112**: [Longest Common Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-common-subsequence-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/112_LongestCommonSubsequence.java)
 - **Day 113**: [Longest Palindromic Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-palindromic-subsequence-1612327878) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/113_LongestPalindromicSubsequence.java)
 - **Day 114**: [Longest Palindrome in a String](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-palindrome-in-a-string3411) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/114_LongestPalindromeInAString.java)
+- **Day 115**: [Palindrome SubStrings](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-palindrome-sub-strings-of-a-string0652) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/115_PalindromeSubStrings.java)
 
 </details>
 
