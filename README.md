@@ -245,6 +245,7 @@
 - **Day 115**: [Palindrome SubStrings](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-palindrome-sub-strings-of-a-string0652) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/115_PalindromeSubStrings.java)
 - **Day 116**: [Edit Distance](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/edit-distance3702) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/116_EditDistance.java)
 - **Day 117**: [Ways to Reach the n'th Stair](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-ways-to-reach-the-nth-stair-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/117_WaysToReachTheNthStair.java)
+- **Day 118**: [Min Cost Climbing Stairs](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/min-cost-climbing-stairs) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/118_MinCostClimbingStairs.java)
 
 </details>
 
