@@ -248,6 +248,7 @@
 - **Day 118**: [Min Cost Climbing Stairs](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/min-cost-climbing-stairs) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/118_MinCostClimbingStairs.java)
 - **Day 119**: [0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/0-1-knapsack-problem0945) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/119_0-1KnapsackProblem.java)
 - **Day 120**: [Coin Change (Count Ways)](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/coin-change2448) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/120_CoinChange(CountWays).java)
+- **Day 121**: [Coin Change (Minimum Coins)](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/number-of-coins1824) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/121_CoinChange(MinimumCoins).java)
 
 </details>
 
