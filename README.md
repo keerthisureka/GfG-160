@@ -250,6 +250,7 @@
 - **Day 120**: [Coin Change (Count Ways)](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/coin-change2448) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/120_CoinChange(CountWays).java)
 - **Day 121**: [Coin Change (Minimum Coins)](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/number-of-coins1824) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/121_CoinChange(MinimumCoins).java)
 - **Day 122**: [Minimum Jumps](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/minimum-number-of-jumps-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/122_MinimumJumps.java)
+- **Day 123**: [Subset Sum Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem-1611555638) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/123_SubsetSumProblem.java)
 
 </details>
 
