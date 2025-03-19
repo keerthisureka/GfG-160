@@ -252,6 +252,7 @@
 - **Day 122**: [Minimum Jumps](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/minimum-number-of-jumps-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/122_MinimumJumps.java)
 - **Day 123**: [Subset Sum Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem-1611555638) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/123_SubsetSumProblem.java)
 - **Day 124**: [Partition Equal Subset Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem2014) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/124_PartitionEqualSubsetSum.java)
+- **Day 125**: [Stock Buy and Sell – Max K Transactions Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/maximum-profit4657) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/125_StockBuyAndSell–MaxKTransactionsAllowed.java)
 
 </details>
 
