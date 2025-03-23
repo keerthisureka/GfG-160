@@ -256,6 +256,7 @@
 - **Day 126**: [Stock Buy and Sell – Max 2 Transactions Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/buy-and-sell-a-share-at-most-twice) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/126_StockBuyAndSell–Max2TransactionsAllowed.java)
 - **Day 127**: [Stickler Thief](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/stickler-theif-1587115621) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/127_SticklerThief.java)
 - **Day 128**: [Stickler Thief II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/house-robber-ii) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/128_SticklerThiefII.java)
+- **Day 129**: [Total Decoding Messages](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/total-decoding-messages1235) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/129_TotalDecodingMessages.java)
 
 </details>
 
