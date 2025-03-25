@@ -258,6 +258,7 @@
 - **Day 128**: [Stickler Thief II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/house-robber-ii) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/128_SticklerThiefII.java)
 - **Day 129**: [Total Decoding Messages](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/total-decoding-messages1235) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/129_TotalDecodingMessages.java)
 - **Day 130**: [Matrix Chain Multiplication](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/matrix-chain-multiplication0303) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/130_MatrixChainMultiplication.java)
+- **Day 131**: [Boolean Parenthesization](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/boolean-parenthesization5610) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/15_Dynamic%20Programming/131_BooleanParenthesization.java)
 
 </details>
 
