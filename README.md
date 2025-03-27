@@ -263,6 +263,14 @@
 
 </details>
 
+
+<details>
+<summary>📂 <b>Greedy</b></summary>
+
+- **Day 133**: [Minimum Platforms](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/minimum-platforms-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/16_Greedy/133_MinimumPlatforms.java)
+
+</details>
+
 ---
 
 ## 🚀 **How to Get Started**  
