@@ -269,6 +269,7 @@
 
 - **Day 133**: [Minimum Platforms](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/minimum-platforms-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/16_Greedy/133_MinimumPlatforms.java)
 - **Day 134**: [Activity Selection](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/activity-selection-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/16_Greedy/134_ActivitySelection.java)
+- **Day 135**: [Job Sequencing Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/job-sequencing-problem-1587115620) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/16_Greedy/135_JobSequencingProblem.java)
 
 </details>
 
