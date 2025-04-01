@@ -275,6 +275,14 @@
 
 </details>
 
+
+<details>
+<summary>📂 <b>Graph</b></summary>
+
+- **Day 138**: [DFS of Graph](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/depth-first-traversal-for-a-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/138_DFSOfGraph.java)
+
+</details>
+
 ---
 
 ## 🚀 **How to Get Started**  
