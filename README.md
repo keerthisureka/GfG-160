@@ -281,6 +281,7 @@
 
 - **Day 138**: [DFS of Graph](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/depth-first-traversal-for-a-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/138_DFSOfGraph.java)
 - **Day 139**: [BFS of graph](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bfs-traversal-of-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/139_BFSOfGraph.java)
+- **Day 140**: [Rotten Oranges](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/rotten-oranges2536) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/140_RottenOranges.java)
 
 </details>
 
