@@ -283,6 +283,7 @@
 - **Day 139**: [BFS of graph](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bfs-traversal-of-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/139_BFSOfGraph.java)
 - **Day 140**: [Rotten Oranges](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/rotten-oranges2536) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/140_RottenOranges.java)
 - **Day 141**: [Undirected Graph Cycle](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-an-undirected-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/141_UndirectedGraphCycle.java)
+- **Day 142**: [Find the number of islands](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/142_FindTheNumberOfIslands.java)
 
 </details>
 
