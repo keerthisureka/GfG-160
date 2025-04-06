@@ -284,6 +284,7 @@
 - **Day 140**: [Rotten Oranges](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/rotten-oranges2536) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/140_RottenOranges.java)
 - **Day 141**: [Undirected Graph Cycle](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-an-undirected-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/141_UndirectedGraphCycle.java)
 - **Day 142**: [Find the number of islands](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/142_FindTheNumberOfIslands.java)
+- **Day 143**: [Topological sort](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/topological-sort) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/143_TopologicalSort.java)
 
 </details>
 
