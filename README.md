@@ -286,6 +286,7 @@
 - **Day 142**: [Find the number of islands](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/142_FindTheNumberOfIslands.java)
 - **Day 143**: [Topological sort](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/topological-sort) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/143_TopologicalSort.java)
 - **Day 144**: [Directed Graph Cycle](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-a-directed-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/144_DirectedGraphCycle.java)
+- **Day 145**: [Bridge edge in a graph](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bridge-edge-in-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/145_BridgeEdgeInAGraph.java)
 
 </details>
 
