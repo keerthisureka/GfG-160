@@ -288,6 +288,7 @@
 - **Day 144**: [Directed Graph Cycle](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-a-directed-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/144_DirectedGraphCycle.java)
 - **Day 145**: [Bridge edge in a graph](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bridge-edge-in-graph) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/145_BridgeEdgeInAGraph.java)
 - **Day 146**: [Articulation Point - II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/articulation-point2616) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/146_ArticulationPoint-II.java)
+- **Day 147**: [Minimum cost to connect all houses in a city](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/minimum-cost-to-connect-all-houses-in-a-city) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/17_Graph/147_MinimumCostToConnectAllHousesInACity.java)
 
 </details>
 
