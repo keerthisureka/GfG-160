@@ -303,7 +303,8 @@
 <details>
 <summary>📂 <b>Tries</b></summary>
 
-- **Day 155**: [Implement Trie](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tries-gfg-160/problem/trie-insert-and-search0651) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/18_Tries/155_ImplementTrie.java)
+-- **Day 155**: [Implement Trie](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tries-gfg-160/problem/trie-insert-and-search0651) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/18_Tries/155_ImplementTrie.java)
+ **Day 156**: [Maximum XOR of two numbers in an array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tries-gfg-160/problem/maximum-xor-of-two-numbers-in-an-array) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/18_Tries/156_MaximumXOROfTwoNumbersInAnArray.java)
 
 </details>
 
