@@ -308,6 +308,14 @@
 
 </details>
 
+
+<details>
+<summary>📂 <b>Bit Manipulation</b></summary>
+
+- **Day 157**: [Find Only Repetitive Element from 1 to n-1](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/bit-manipulation-gfg-160/problem/find-repetitive-element-from-1-to-n-1) - [Solution](https://github.com/keerthisureka/GfG-160/blob/main/19_Bit%20Manipulation/157_FindOnlyRepetitiveElementFrom1Ton-1.java)
+
+</details>
+
 ---
 
 ## 🚀 **How to Get Started**  
